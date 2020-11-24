@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name Igor and I am from Ukraine. 
+
+I am not programmer. It`s only my hobby. But i like sometimes to code a little.
+
+If you want to know something about me - welcome to [my blog](https://igorlutiy.pp.ua) (but it on russian).
+
 <!--
 **IgorLutiy/IgorLutiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
